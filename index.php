@@ -2,7 +2,7 @@
 /*
  * PHP QR Code encoder
  *
- * Exemplatory usage
+ * Exemplary usage
  *
  * PHP QR Code is distributed under LGPL 3
  * Copyright (C) 2010 Dominik Dzienia <deltalab at poczta dot fm>
