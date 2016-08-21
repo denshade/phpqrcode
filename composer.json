@@ -1,0 +1,14 @@
+{
+    "name": "denshade/qrimage",
+    "description": "A package from reading/writing qrcodes.",
+    "autoload": {
+        "psr-4": {"": "src/"},
+        "files": ["src/definitions.php"]
+    },
+    "require": {
+        "ext-gd" : "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    }
+}
