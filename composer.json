@@ -1,6 +1,6 @@
 {
     "name": "denshade/qrimage",
-    "description": "A package from reading/writing qrcodes.",
+    "description": "A package from creating qrcodes.",
     "autoload": {
         "psr-4": {"": "src/"},
         "files": ["src/definitions.php"]
