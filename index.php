@@ -21,6 +21,7 @@
  * License along with this library; if not, write to the Free Software
  * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
  */
+    require __DIR__ . '/vendor/autoload.php';
     
     echo "<h1>PHP QR Code</h1><hr/>";
     
@@ -29,8 +30,8 @@
     
     //html PNG location prefix
     $PNG_WEB_DIR = 'temp/';
-
-    include "qrlib.php";    
+    
+    //include "qrlib.php";
     
     //ofcourse we need rights to create temp dir
     if (!file_exists($PNG_TEMP_DIR))

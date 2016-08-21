@@ -1,0 +1,10 @@
+2016-08-21 14:43:08: <br />
+<b>Warning</b>:  file_put_contents(C:\Users\lveeckha\Desktop\GitHub\phpqrcode\src\cache\frame_2.dat): failed to open stream: No such file or directory in <b>C:\Users\lveeckha\Desktop\GitHub\phpqrcode\src\QRspec.php</b> on line <b>504</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\lveeckha\Desktop\GitHub\phpqrcode\src\QRmask.php</b> on line <b>140</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\lveeckha\Desktop\GitHub\phpqrcode\src\cache\mask_1\mask_25_1.dat): failed to open stream: No such file or directory in <b>C:\Users\lveeckha\Desktop\GitHub\phpqrcode\src\QRmask.php</b> on line <b>141</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\lveeckha\Desktop\GitHub\phpqrcode\src\QRmask.php</b> on line <b>140</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\lveeckha\Desktop\GitHub\phpqrcode\src\cache\mask_4\mask_25_4.dat): failed to open stream: No such file or directory in <b>C:\Users\lveeckha\Desktop\GitHub\phpqrcode\src\QRmask.php</b> on line <b>141</b><br />
